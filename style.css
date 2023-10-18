@@ -12,7 +12,7 @@ header nav{
     display: flex;
     align-items: center;
     background: rgb(222, 244, 244);
-    border-radius: 10px;
+    border-radius: 15px;
 
 }
 nav ul{
